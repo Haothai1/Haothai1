@@ -1,11 +1,11 @@
 <!--
 **Haothai1/Haothai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!-- @@ -1,4 +1,4 @@
+ @@ -1,4 +1,4 @@
 
 # Hi, I'm Hao!
 :computer:Welcome to my space where I share my journey as an aspiring Software Engineer.<br/>
-<!-- @@ -7,7 +7,11 @@
+@@ -7,7 +7,11 @@
 #My portfolio [In progress](https://example.com)<br/>
 :newspaper: This is my [Resume](https://online.updf.com/index/share/en-US?shareId=01ade67f-7948-4b70-a99c-90490744ca12)<br/> 
 💭 Currently learning about databases and improving my backend expertise [GroovyEvents](https://github.com/Belalaskaik/GroovyEvents/tree/Hao)!<br/>
@@ -28,7 +28,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 
-<!-- @@ -24,6 +28,14 @@  
+@@ -24,6 +28,14 @@  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
