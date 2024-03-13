@@ -6,7 +6,7 @@
 # Hi, I'm Hao!
 :computer:Welcome to my space where I share my journey as an aspiring Software Engineer.<br/>
 @@ -7,7 +7,11 @@
-<!-- #My portfolio [In progress](https://example.com)<br/>
+#My portfolio [In progress](https://example.com)<br/>
 :newspaper: This is my [Resume](https://online.updf.com/index/share/en-US?shareId=01ade67f-7948-4b70-a99c-90490744ca12)<br/> 
 💭 Currently learning about databases and improving my backend expertise [GroovyEvents](https://github.com/Belalaskaik/GroovyEvents/tree/Hao)!<br/>
 
@@ -34,6 +34,5 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Haothai1&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-profile-trophy.vercel.app/?username=Haothai1&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 
