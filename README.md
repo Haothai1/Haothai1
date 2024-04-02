@@ -4,7 +4,7 @@
 
 # Hi, I'm Hao!
 :computer: Welcome to my space where I share my journey as an aspiring Software Engineer.<br/>
-:newspaper: This is my [Resume](https://online.updf.com/index/share/en-US?shareId=01ade67f-7948-4b70-a99c-90490744ca12)<br/> 
+:newspaper: This is my [Resume](https://online.updf.com/index/share/en-US?shareId=be283ed0-1b5c-4adc-ac4d-b6196af4e68a)<br/> 
 💭 Currently learning about databases and improving my backend expertise [GroovyEvents](https://github.com/Belalaskaik/GroovyEvents/tree/Hao)!<br/>
 # My portfolio [(In progress)](https://example.com)<br/>
 
