@@ -6,7 +6,7 @@
 :computer: Welcome to my space where I share my journey as an aspiring Software Engineer.<br/>
 :newspaper: This is my [Resume](https://online.updf.com/index/share/en-US?shareId=01ade67f-7948-4b70-a99c-90490744ca12)<br/> 
 💭 Currently learning about databases and improving my backend expertise [GroovyEvents](https://github.com/Belalaskaik/GroovyEvents/tree/Hao)!<br/>
-#My portfolio [In progress](https://example.com)<br/>
+# My portfolio [In progress](https://example.com)<br/>
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
