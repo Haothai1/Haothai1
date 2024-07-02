@@ -4,7 +4,7 @@
 
 # Hi, I'm Hao!
 :computer: Welcome to my space where I share my journey as an aspiring Software Engineer.<br/>
-:newspaper: This is my [Resume](https://online.updf.com/index/share/en-US?shareId=be283ed0-1b5c-4adc-ac4d-b6196af4e68a)<br/> 
+:newspaper: This is my [Resume](https://github.com/user-attachments/files/16073062/resume_master1CP.pdf)<br/> 
 💭 Currently learning Ruby on Rails and ReactJS.<br/>
 # My portfolio [(In progress)](https://example.com)<br/>
 
