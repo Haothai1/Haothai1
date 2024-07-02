@@ -5,7 +5,7 @@
 # Hi, I'm Hao!
 :computer: Welcome to my space where I share my journey as an aspiring Software Engineer.<br/>
 :newspaper: This is my [Resume](https://online.updf.com/index/share/en-US?shareId=be283ed0-1b5c-4adc-ac4d-b6196af4e68a)<br/> 
-💭 Currently learning about databases and improving my backend expertise. Check out a project I'm currently working on: [GroovyEvents](https://github.com/Belalaskaik/GroovyEvents/tree/Hao)<br/>
+💭 Currently learning Ruby on Rails and ReactJS.<br/>
 # My portfolio [(In progress)](https://example.com)<br/>
 
 # 💻 Tech Stack
