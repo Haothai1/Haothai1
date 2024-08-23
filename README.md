@@ -6,7 +6,7 @@
 :computer: Welcome to my space where I share my journey as an aspiring Software Engineer.<br/>
 :newspaper: This is my [Resume](https://github.com/user-attachments/files/16073062/resume_master1CP.pdf)<br/> 
 💭 Currently learning Ruby on Rails and ReactJS.<br/>
-# My portfolio [Click Here](https://portfolio-git-main-haothai1s-projects.vercel.app/)<br/>
+# My portfolio -> [Click Here](https://portfolio-git-main-haothai1s-projects.vercel.app/)<br/>
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
