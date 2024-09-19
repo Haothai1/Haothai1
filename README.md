@@ -4,7 +4,7 @@
 
 # Hi, I'm Hao!
 :computer: Welcome to my space where I share my journey as an aspiring Software Engineer.<br/>
-:newspaper: This is my [Resume](https://github.com/user-attachments/files/16073062/resume_master1CP.pdf)<br/> 
+:newspaper: This is my [Resume](https://github.com/user-attachments/files/17067696/resume_master___Full_stack_.2.pdf)<br/> 
 💭 Currently learning Ruby on Rails and ReactJS.<br/>
 # My portfolio -> [Click Here](https://portfolio-git-main-haothai1s-projects.vercel.app/)<br/>
 
