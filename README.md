@@ -8,7 +8,7 @@
 💭 Currently learning Ruby on Rails and MERN stack.<br/>
 # My portfolio -> [Click Here](https://portfolio-git-main-haothai1s-projects.vercel.app/)<br/>
 
-# 💻 Tech Stack
+# 💻 Tech Stack 
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
