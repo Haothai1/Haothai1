@@ -3,9 +3,9 @@
 -->
 
 # Hi, I'm Hao!
-:computer: Welcome to my space where I share my journey as an aspiring Software Engineer.<br/>
+:computer: Welcome to my space where I share my journey as a Full-Stack Software Engineer.<br/>
 :newspaper: This is my [Resume](https://github.com/user-attachments/files/27253275/Hao_Full_Stack_Resume.pdf)<br/> 
-💭 Currently learning Ruby on Rails and MERN stack.<br/>
+💭 Currently learning more LLMs and React Native.<br/>
 # My portfolio -> [Click Here](https://portfolio-git-main-haothai1s-projects.vercel.app/)<br/>
 
 # 💻 Tech Stack 
